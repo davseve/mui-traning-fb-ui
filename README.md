@@ -1,6 +1,3 @@
-Sure, here's a sample `README.md` file for your React MUI training app:
-
-
 # React MUI Training App
 
 This project is designed for learning purposes, inspired by the UI of Facebook. It incorporates various features and practices using React and Material-UI.
